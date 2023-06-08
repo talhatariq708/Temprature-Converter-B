@@ -1,0 +1,25 @@
+body {
+    padding: 50px 100px;
+    margin: 0%;
+}
+#container {
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+#inp-Div {
+    display: inline-block;
+    padding: 10px;
+}
+.inp {
+    text-align: center;
+    font-size: 21px;
+}
+label {
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+}
